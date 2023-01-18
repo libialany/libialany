@@ -1,8 +1,15 @@
-- 👋 Hi, I’m @libialany
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @libialany.
+- 👀 I’m interested in Web Development and DevOps.
+
+*Web Developement: [API](https://github.com/libialany/Backend-APIREST)*
+
+*DevOps: [Learning AWS](https://github.com/libialany/aws-notas)*
+
+and more...
+- 🌱 I’m currently learning hot to contribute Open Source Projets.
+- 💞️ I’m looking to collaborate on AWS CLI.
+- 📫 How to reach me twitter: @ZtvmtE.
+
 
 <!---
 libialany/libialany is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
