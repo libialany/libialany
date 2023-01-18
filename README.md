@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @libialany.
-- 👀 I’m interested in Web Development and DevOps.
+- 👀 I’m interested in :Web Developer, and DevOps.
 
-*Web Developement: [API](https://github.com/libialany/Backend-APIREST)*
+*Web Developer: [API](https://github.com/libialany/Backend-APIREST)*
 
 *DevOps: [Learning AWS](https://github.com/libialany/aws-notas)*
 
