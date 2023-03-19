@@ -6,7 +6,7 @@
 *DevOps: [Learning AWS](https://github.com/libialany/aws-notas)*
 
 and more...
-- 🌱 I’m currently learning hot to contribute Open Source Projets.
+- 🌱 I’m currently learning how to contribute Open Source Projets.
 - 💞️ I’m looking to collaborate on AWS CLI.
 - 📫 How to reach me twitter: @ZtvmtE.
 
