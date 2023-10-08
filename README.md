@@ -14,9 +14,9 @@ and more...
 #### **Latest Blog Posts** 🚀
 
 <!-- start latest posts -->
+- [Self-Hosting Your Music Player!](https://libialany.github.io/#/2023/10/08/music-locally)
+- [Automate Your Blog Posts with GitHub Actions](https://libialany.github.io/#/2023/10/08/actions-and-github)
 - [RDS EC2](https://libialany.github.io/#/2022/09/29/dummy-steps-in-AWS)
-- [Cloud And Alarms](https://libialany.github.io/#/2022/09/26/cloud-and-alarms)
-- [Learnig Something About OpenSSL](https://libialany.github.io/#/2022/06/22/sign-executables)
 <!-- end latest posts -->
 
 
