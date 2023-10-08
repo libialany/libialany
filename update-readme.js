@@ -7,7 +7,7 @@ try {
   let updates = `<!-- start latest posts -->\n`;
   for (let i = 0; i < 3; i++) {
     const { link, title } = items[i];
-    const row = `- [${title}](${'https://libialany.github.io/'+link})\n`;
+    const row = `- [${title}](${'https://libialany.github.io/'+link.slice(0,-5)})\n`;
     updates = updates.concat(row);
   }
   updates = updates.concat('<!-- end latest posts -->');
