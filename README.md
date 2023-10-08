@@ -14,9 +14,9 @@ and more...
 #### **Latest Blog Posts** 🚀
 
 <!-- start latest posts -->
-- [RDS EC2](#/2022/09/29/dummy-steps-in-AWS.html)
-- [Cloud And Alarms](#/2022/09/26/cloud-and-alarms.html)
-- [Learnig Something About OpenSSL](#/2022/06/22/sign-executables.html)
+- [RDS EC2](https://libialany.github.io/#/2022/09/29/dummy-steps-in-AWS.html)
+- [Cloud And Alarms](https://libialany.github.io/#/2022/09/26/cloud-and-alarms.html)
+- [Learnig Something About OpenSSL](https://libialany.github.io/#/2022/06/22/sign-executables.html)
 <!-- end latest posts -->
 
 
