@@ -1,0 +1,30 @@
+name: Build README
+
+on:
+  workflow_dispatch:
+  repository_dispatch:
+    types: [scrape]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v3
+      - name: Use Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: "18.x"
+      - name: Install node dependencies
+        run: npm install
+      - name: Check for RSS feed updates
+        run: npm run scrape
+      - name: Commit and push
+        run: |-
+          git diff
+          git config --global user.email "actions@users.noreply.github.com"
+          git config --global user.name "README-bot"
+          git add -A
+          git commit -m "Update content" || git commit --allow-empty -m "Empty commit"
+          git push

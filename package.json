@@ -1,0 +1,16 @@
+{
+  "name": "deeheber-readme",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "scrape": "node update-readme.js"
+  },
+  "dependencies": {
+    "rss-parser": "^3.12.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deeheber/deeheber.git"
+  },
+  "license": "ISC"
+}
