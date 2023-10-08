@@ -11,6 +11,14 @@ and more...
 - 📫 How to reach me twitter: @ZtvmtE.
 
 
+#### **Latest Blog Posts** 🚀
+
+<!-- start latest posts -->
+- [EventBridge Emoji Event Patterns](https://danielleheberling.xyz/blog/eventbridge-emoji/)
+- [My Personal Blog Site's CI/CD](https://danielleheberling.xyz/blog/blog-ci-cd/)
+- [Career Reflections](https://danielleheberling.xyz/blog/career-refelctions/)
+<!-- end latest posts -->
+
 <!---
 libialany/libialany is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
