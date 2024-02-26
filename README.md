@@ -14,9 +14,9 @@ and more...
 #### **Latest Blog Posts** 🚀
 
 <!-- start latest posts -->
+- [Raspberry Pi Assistnace](https://medium.com/@elibialany/creating-a-personal-assistant-a-raspberry-pi-journey-5a613a3327e0)
 - [Self-Hosting Your Music Player!](https://libialany.github.io/#/2023/10/08/music-locally)
 - [Automate Your Blog Posts with GitHub Actions](https://libialany.github.io/#/2023/10/08/actions-and-github)
-- [RDS EC2](https://libialany.github.io/#/2022/09/29/dummy-steps-in-AWS)
 <!-- end latest posts -->
 
  <h1>This is important also,<em><strong> i am contributing in gitlab </strong></em>.</h1>
